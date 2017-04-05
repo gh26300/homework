@@ -12,8 +12,15 @@ namespace PHC.ConsoleAPP
         static void Main(string[] args)
         {
             var import = new PHC.Services.ImportService();
+            var db = new PHC.Repository.stateRepo();
             var states = import.findState(@"http://ibus.tbkc.gov.tw/xmlbus/StaticData/GetRoute.xml");
-            showState(states);           
+            showState(states);
+            //                .Where(x=>x.CreateTime>DateTime.Now.AddDays(-1))
+//                .Where(x=>x.Id.Length==10)
+            db.CreateDatabase(states);
+            /*states.ToList().ForEach(state => {
+                db.CreateDatabase(states);
+            });*/
             Console.ReadKey();
             
         }
