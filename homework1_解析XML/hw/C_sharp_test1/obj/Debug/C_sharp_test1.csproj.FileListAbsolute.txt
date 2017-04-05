@@ -13,3 +13,6 @@ C:\Users\User\Source\Repos\KUAS_multimedia4\hw\C_sharp_test1\obj\Debug\C_sharp_t
 C:\Users\User\Source\Repos\homework\homework1\hw\C_sharp_test1\bin\Debug\C_sharp_test1.exe.config
 C:\Users\User\Source\Repos\homework\homework1\hw\C_sharp_test1\obj\Debug\C_sharp_test1.exe
 C:\Users\User\Source\Repos\homework\homework1\hw\C_sharp_test1\obj\Debug\C_sharp_test1.pdb
+C:\Users\User\Source\Repos\homework\homework1_解析XML\hw\C_sharp_test1\bin\Debug\C_sharp_test1.exe.config
+C:\Users\User\Source\Repos\homework\homework1_解析XML\hw\C_sharp_test1\obj\Debug\C_sharp_test1.exe
+C:\Users\User\Source\Repos\homework\homework1_解析XML\hw\C_sharp_test1\obj\Debug\C_sharp_test1.pdb
