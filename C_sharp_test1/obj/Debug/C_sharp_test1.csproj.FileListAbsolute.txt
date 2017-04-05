@@ -1,6 +1,0 @@
-c:\users\user\documents\visual studio 2013\Projects\C_sharp_test1\C_sharp_test1\bin\Debug\C_sharp_test1.exe.config
-c:\users\user\documents\visual studio 2013\Projects\C_sharp_test1\C_sharp_test1\bin\Debug\C_sharp_test1.exe
-c:\users\user\documents\visual studio 2013\Projects\C_sharp_test1\C_sharp_test1\bin\Debug\C_sharp_test1.pdb
-c:\users\user\documents\visual studio 2013\Projects\C_sharp_test1\C_sharp_test1\obj\Debug\C_sharp_test1.csprojResolveAssemblyReference.cache
-c:\users\user\documents\visual studio 2013\Projects\C_sharp_test1\C_sharp_test1\obj\Debug\C_sharp_test1.exe
-c:\users\user\documents\visual studio 2013\Projects\C_sharp_test1\C_sharp_test1\obj\Debug\C_sharp_test1.pdb
