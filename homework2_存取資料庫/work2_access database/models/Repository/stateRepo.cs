@@ -23,7 +23,7 @@ namespace PHC.Repository
             VALUES (N'{0}',N'{1}',N'{2}',N'{3}',N'{4}',N'{5}')", state.Id, state.nameZh, state.ddesc
                 , state.departureZh, state.destinationZh, state.CreateTime.ToString("yyyy/MM/dd"));
 
-              //  command.ExecuteNonQuery();
+                command.ExecuteNonQuery();
               //  有疑問
             }
                 connection.Close();

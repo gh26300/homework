@@ -29,7 +29,7 @@ namespace PHC.ConsoleAPP
             Console.WriteLine(string.Format("共收到{0}筆監測站的資料", states.Count));
             states.ForEach(x =>
             {
-                Console.WriteLine(string.Format("編號 {0} , 路徑 {1},", x.nameZh, x.ddesc));
+                Console.WriteLine(string.Format("編號 {0} , 路徑 {1}", x.nameZh, x.ddesc));
             });
         }
     }
