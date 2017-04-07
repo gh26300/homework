@@ -1,0 +1,5 @@
+C:\Users\User\Source\Repos\homework\homework2_存取資料庫\work2_access database\models\bin\Debug\models.dll
+C:\Users\User\Source\Repos\homework\homework2_存取資料庫\work2_access database\models\bin\Debug\models.pdb
+C:\Users\User\Source\Repos\homework\homework2_存取資料庫\work2_access database\models\obj\Debug\models.dll
+C:\Users\User\Source\Repos\homework\homework2_存取資料庫\work2_access database\models\obj\Debug\models.pdb
+C:\Users\User\Source\Repos\homework\homework2_存取資料庫\work2_access database\models\obj\Debug\models.csprojResolveAssemblyReference.cache
